@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Sachin Sharma 👋
 
 ### 🚀 About Me
 I'm a Web Developer passionate about building visually stunning and performant web applications. Currently, I'm focusing on refining UI/UX designs and mastering back-end integration with Flask.
@@ -18,3 +18,6 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 ### 📫 How to reach me
 [Link to LinkedIn] | [Link to Portfolio] | [Your Email]
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Flask+Expert;UI%2FUX+Enthusiast;Building+Modern+Dashboards" alt="Typing SVG" />
+</div>
