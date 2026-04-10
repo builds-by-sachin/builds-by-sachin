@@ -5,6 +5,10 @@
     <i>"Good design is obvious. Great design is transparent."</i>
   </p>
 
+### 💡 Thought of the Day
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
   ---
 </div>
 
