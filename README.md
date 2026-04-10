@@ -12,7 +12,7 @@
 ### 🚀 About Me
 I'm a Web Developer passionate about building visually stunning and performant web applications. Currently, I'm focusing on refining UI/UX designs and mastering back-end integration with Flask.
 
-- 🔭 **Current Project:** Working on a [Flask-based Performance Dashboard](https://github.com/YOUR_USERNAME/YOUR_REPO).
+- 🔭 **Current Project:** Working on a [Flask-based Performance Dashboard](https://github.com/builds-by-sachin/login-signup).
 - 🎨 **Interests:** Mastering Tailwind CSS animations and interactive Chart.js visualizations.
 - ⚡ **Philosophy:** A beautiful UI is just as important as clean code.
 
