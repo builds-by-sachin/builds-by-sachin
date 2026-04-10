@@ -27,7 +27,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 <div align="center">
 
-<div align="left">### 📊 Developer Command Center</div>
+### 📊 Developer Command Center
 
 | 🚀 Projects Live | 🏆 GitHub Rank | ⚡ Commits (2026) |
 | :--- | :---: | ---: |
@@ -35,7 +35,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 <br />
 
-<div align="left">### 💡 Thought of the Day</div>
+### 💡Thought of the Day
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
