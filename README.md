@@ -25,7 +25,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### 📊 Developer Command Center
 
@@ -36,7 +36,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 <br />
 
 ### 💡Thought of the Day
-<p align="left">
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
 <br />
