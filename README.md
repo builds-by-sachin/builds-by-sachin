@@ -48,7 +48,8 @@ I'm a Web Developer passionate about building visually stunning and performant w
 </div>
 
 ---
-
-
-### 📫 Let's Connect!
-[💼 LinkedIn](https://linkedin.com/in/sachinsharma-itstimetowork) | [📧 Email](mailto:sachin291sharma@email.com)
+### 📫 Get In Touch
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachinsharma-itstimetowork)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38B2AC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin291sharma@email.com)
