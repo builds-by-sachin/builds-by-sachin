@@ -47,4 +47,4 @@ I'm a Web Developer passionate about building visually stunning and performant w
 ---
 
 ### 📫 Let's Connect!
-[💼 LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [🌐 Portfolio](https://YOUR_PORTFOLIO_URL) | [📧 Email](mailto:your@email.com)
+[💼 LinkedIn](https://linkedin.com/in/sachinsharma-itstimetowork) | [🌐 Portfolio](https://YOUR_PORTFOLIO_URL) | [📧 Email](mailto:sachin291sharma@email.com)
