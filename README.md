@@ -58,16 +58,16 @@ I enjoy mixing strong backend logic with modern UI/UX so every project feels pro
 ### 📊 Live Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin291sharma-dotcom&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin291sharma-dotcom&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=builds-by-sachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builds-by-sachin&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin291sharma-dotcom&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=builds-by-sachin&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sachin291sharma-dotcom&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=builds-by-sachin&theme=tokyonight" />
 </p>
 
 ---
@@ -75,11 +75,11 @@ I enjoy mixing strong backend logic with modern UI/UX so every project feels pro
 ### 🚀 Animated Highlights
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachin291sharma-dotcom&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=builds-by-sachin&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachin291sharma-dotcom/sachin291sharma-dotcom/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sachin291sharma-dotcom/builds-by-sachin/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
