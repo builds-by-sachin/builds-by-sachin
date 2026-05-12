@@ -79,7 +79,7 @@ I enjoy mixing strong backend logic with modern UI/UX so every project feels pro
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sachin291sharma-dotcom/builds-by-sachin/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/builds-by-sachin/builds-by-sachin/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
