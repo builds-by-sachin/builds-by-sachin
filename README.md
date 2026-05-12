@@ -58,11 +58,6 @@ I enjoy mixing strong backend logic with modern UI/UX so every project feels pro
 ### 📊 Live Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=builds-by-sachin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builds-by-sachin&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=builds-by-sachin&theme=tokyonight&hide_border=true" />
 </p>
 
