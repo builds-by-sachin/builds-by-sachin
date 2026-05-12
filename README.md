@@ -106,7 +106,7 @@ I enjoy mixing strong backend logic with modern UI/UX so every project feels pro
 ### 📈 Developer Pulse
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin291sharma-dotcom&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=builds-by-sachin&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 <p align="center">
